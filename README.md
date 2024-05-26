@@ -6,7 +6,7 @@
 
 ### 2. 准备工作
 
-- 数据集的下载与存放（详见链接：https://drive.google.com/file/d/1zFad4ILa-Cb60YP5aOnwsOQT7YcwbvQv/view?usp=sharing）,数据解压后是个名为`data`的文件夹，存放在项目的根目录下
+- 数据集的下载与存放（详见[Google Drive](https://drive.google.com/file/d/1zFad4ILa-Cb60YP5aOnwsOQT7YcwbvQv/view?usp=sharing)）,数据解压后是个名为`data`的文件夹，存放在项目的根目录下
 - 删除load_model部分
 
 ### 3. 如何启动
